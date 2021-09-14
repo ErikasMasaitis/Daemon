@@ -24,11 +24,11 @@ Visi atlikti veiksmai turi būti rašomi į atskirą failą skirtą loginimui.
 
 **Žemiau pateikta kaip galėtų atrodyti konfigūracijos failas.**
 
-audio_types = mp3,flac,wav
-video_types = mkv,avi,mp4
-photo_types = svg,jpeg,png
-document_types = docx,txt,pdf
+audio_types = mp3,flac,wav<br>
+video_types = mkv,avi,mp4<br>
+photo_types = svg,jpeg,png<br>
+document_types = docx,txt,pdf<br>
 
 dir_to_watch = /home/user/Downloads
 
-types_to_watch = audio,document
+types_to_watch = audio,document 
